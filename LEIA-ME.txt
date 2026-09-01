@@ -1,0 +1,13 @@
+Coloque as fotos reais da clínica nesta pasta usando exatamente estes nomes
+de arquivo. O site detecta automaticamente cada imagem e substitui o
+placeholder correspondente — não é preciso alterar HTML, CSS ou JS.
+
+hero.jpg              -> imagem principal do topo (retrato, formato 4:5)
+clinica.jpg           -> foto do consultório, seção "Sobre" (formato 3:4)
+procedimento-01.jpg   -> galeria "Resultados"
+procedimento-02.jpg   -> galeria "Resultados"
+resultado-01.jpg      -> galeria "Resultados"
+resultado-02.jpg      -> galeria "Resultados"
+
+Formatos aceitos: .jpg, .jpeg, .png, .webp (ajuste a extensão em
+data-src no index.html se usar um formato diferente de .jpg).
